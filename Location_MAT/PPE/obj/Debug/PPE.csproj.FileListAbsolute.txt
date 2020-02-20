@@ -1,0 +1,14 @@
+c:\users\llammari\documents\visual studio 2015\Projects\Location_MAT\PPE\bin\Debug\PPE.exe.config
+C:\Users\llammari\Desktop\Cours BTS\Programmation\Epreuve E4\Location_MAT\PPE\bin\Debug\PPE.exe.config
+C:\Users\llammari\Desktop\Cours BTS\Programmation\Epreuve E4\Location_MAT\PPE\bin\Debug\PPE.exe
+C:\Users\llammari\Desktop\Cours BTS\Programmation\Epreuve E4\Location_MAT\PPE\bin\Debug\PPE.pdb
+C:\Users\llammari\Desktop\Cours BTS\Programmation\Epreuve E4\Location_MAT\PPE\bin\Debug\MySql.Data.dll
+C:\Users\llammari\Desktop\Cours BTS\Programmation\Epreuve E4\Location_MAT\PPE\obj\Debug\PPE.csprojResolveAssemblyReference.cache
+C:\Users\llammari\Desktop\Cours BTS\Programmation\Epreuve E4\Location_MAT\PPE\obj\Debug\PPE.Vente.resources
+C:\Users\llammari\Desktop\Cours BTS\Programmation\Epreuve E4\Location_MAT\PPE\obj\Debug\PPE.Properties.Resources.resources
+C:\Users\llammari\Desktop\Cours BTS\Programmation\Epreuve E4\Location_MAT\PPE\obj\Debug\PPE.csproj.GenerateResource.Cache
+C:\Users\llammari\Desktop\Cours BTS\Programmation\Epreuve E4\Location_MAT\PPE\obj\Debug\PPE.exe
+C:\Users\llammari\Desktop\Cours BTS\Programmation\Epreuve E4\Location_MAT\PPE\obj\Debug\PPE.pdb
+C:\Users\llammari\Desktop\Cours BTS\Programmation\Epreuve E4\Location_MAT\PPE\obj\Debug\PPE.FormPersonnel.resources
+C:\Users\llammari\Desktop\Cours BTS\Programmation\Epreuve E4\Location_MAT\PPE\obj\Debug\PPE.FormPanierVacancier.resources
+C:\Users\llammari\Desktop\Cours BTS\Programmation\Epreuve E4\Location_MAT\PPE\obj\Debug\PPE.FormVacancier.resources
